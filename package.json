@@ -1,0 +1,28 @@
+{
+  "name": "API-REST-Node-js-and-Mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migohe14/API-REST-Node-js-and-Mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migohe14/API-REST-Node-js-and-Mysql/issues"
+  },
+  "homepage": "https://github.com/migohe14/API-REST-Node-js-and-Mysql#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
